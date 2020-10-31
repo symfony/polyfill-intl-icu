@@ -9,13 +9,13 @@
  * file that was distributed with this source code.
  */
 
-use Symfony\Component\Intl\Collator\Collator as IntlCollator;
+use Symfony\Polyfill\Intl\Icu\Collator as CollatorPolyfill;
 
 /**
  * Stub implementation for the Collator class of the intl extension.
  *
  * @author Bernhard Schussek <bschussek@gmail.com>
  */
-class Collator extends IntlCollator
+class Collator extends CollatorPolyfill
 {
 }
