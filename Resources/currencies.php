@@ -1219,6 +1219,10 @@ return array (
   array (
     0 => 'EC$',
   ),
+  'XCG' => 
+  array (
+    0 => 'Cg.',
+  ),
   'XEU' => 
   array (
     0 => 'XEU',
