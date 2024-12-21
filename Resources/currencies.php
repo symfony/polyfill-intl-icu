@@ -1309,6 +1309,10 @@ return array (
     1 => 0,
     2 => 0,
   ),
+  'ZWG' => 
+  array (
+    0 => 'ZWG',
+  ),
   'ZWL' => 
   array (
     0 => 'ZWL',
